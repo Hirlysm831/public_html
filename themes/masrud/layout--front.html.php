@@ -152,8 +152,8 @@ $tl = config('blog.copyright').' &minus; [PHP Programmer]';
         <p class="home">Sawahan, Nganjuk - Jawa Timur</p>
         <p><a href="mailto:m45rud.project@gmail.com" target="_blank">m45rud.project&#64;gmail.com</a></p>
         <p><a href="https://api.whatsapp.com/send?phone=6285735501035&amp;text=Assalamu%27alaikum%20%3A%29" target="_blank">0857-3550-1035</a></p>
-        <p><a href="<?=site_url()?>blog">my blog</a></p>
-        <p><a href="https://github.com/m45rud" target="_blank">code</a></p>
+        <p><a href="<?=site_url()?>blog">My Blog</a></p>
+        <p><a href="https://github.com/m45rud" target="_blank">Code</a></p>
     </main>
   </body>
 </html>
